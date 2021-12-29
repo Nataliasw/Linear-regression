@@ -16,3 +16,6 @@ This reporsitory cotains code and exercises for Linear Regression, written in Ju
  - Dealing with missing values
  - Dealing with outliers
  - Splitting data into train and test samples
+
+
+Notebooks are based on exercises from 'Data Science Course' conducted by Data Science 365.
